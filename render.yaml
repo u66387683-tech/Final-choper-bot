@@ -1,0 +1,10 @@
+services:
+  - type: web
+    name: insanesmp-two-account-bot
+    runtime: node
+    buildCommand: npm install
+    startCommand: node treechoper_two_native_auth_staggered_fixed.js
+    healthCheckPath: /healthz
+    envVars:
+      - key: NODE_VERSION
+        value: "24.14.1"

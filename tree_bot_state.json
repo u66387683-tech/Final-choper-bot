@@ -1,0 +1,20 @@
+{
+  "enabled": false,
+  "mode": "auto",
+  "lockedTarget": null,
+  "lockedAt": 0,
+  "speed": {
+    "planting": 70,
+    "bonemeal": 45,
+    "chopping": 300,
+    "scan": 80
+  },
+  "stats": {
+    "cycles": 0,
+    "planted": 0,
+    "bonemeal": 0,
+    "chopped": 0,
+    "errors": 6,
+    "reconnects": 26
+  }
+}

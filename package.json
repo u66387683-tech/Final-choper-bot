@@ -1,0 +1,17 @@
+{
+  "name": "insanesmp-two-account-bot",
+  "version": "1.0.0",
+  "private": true,
+  "main": "treechoper_two_native_auth_staggered_fixed.js",
+  "scripts": {
+    "start": "node treechoper_two_native_auth_staggered_fixed.js",
+    "selftest": "node -e \"process.env.TREEBOT_SELFTEST='1'; require('./treechoper_two_native_auth_staggered_fixed.js')\""
+  },
+  "engines": {
+    "node": ">=20"
+  },
+  "dependencies": {
+    "mineflayer": "4.37.1",
+    "vec3": "0.2.0"
+  }
+}
