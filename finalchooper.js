@@ -2093,13 +2093,13 @@ function launchTwoAccounts() {
 
   const accounts = [
     {
-      username: process.env.BOT1_USERNAME || 'Rahul_kura32mr',
-      password: process.env.BOT1_PASSWORD || 'RahulKura32MR',
+      username: process.env.BOT1_USERNAME || 'Aarav77_YTx',
+      password: process.env.BOT1_PASSWORD || 'Vihdddan77X',
       blocks: 5
     },
     {
-      username: process.env.BOT2_USERNAME || 'Rahul_kura45mr',
-      password: process.env.BOT2_PASSWORD || 'RahulKura45MR',
+      username: process.env.BOT2_USERNAME || 'Vihan77X',
+      password: process.env.BOT2_PASSWORD || 'Vihraft81q',
       blocks: 10
     }
   ];
